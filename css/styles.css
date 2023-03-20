@@ -63,7 +63,29 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+body {
+    font-family: 'Noto Sans TC', sans-serif;
+}
 
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
+    font-family: 'Noto Sans TC', sans-serif;
+    text-emphasis: none;
+}
+
+.subheading {
+    font-family: 'Noto Sans TC', sans-serif;
+    text-emphasis: none;
+}
+
+.expedu_icon {
+    color: #495057;
+}
+
+.expedu_icon:hover {
+    background-color: #495057;
+    color:#fff
+    
+}
 *,
 *::before,
 *::after {

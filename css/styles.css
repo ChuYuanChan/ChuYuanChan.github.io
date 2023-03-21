@@ -80,11 +80,11 @@ h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
 }
 
 .expedu_icon {
-    color: #495057;
+    color: #20c997;
 }
 
 .expedu_icon:hover {
-    background-color: #495057;
+    background-color: #20c997;
     color:#fff
     
 }
@@ -261,11 +261,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #00cb8e;
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #20c997;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -5998,7 +5998,7 @@ textarea.form-control-lg {
   padding: 0.5rem 1rem;
   margin-bottom: 0;
   font-size: 1rem;
-  color: #343a40;
+  color: #20c997;
   background-color: #f0f0f0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
   border-top-left-radius: calc(0.3rem - 1px);

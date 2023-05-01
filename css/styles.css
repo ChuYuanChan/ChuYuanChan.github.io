@@ -65,6 +65,7 @@
   --bs-body-color: #212529;
   --bs-body-bg: #fff;
 }
+
 body {
     font-family: 'Noto Sans TC', sans-serif;
 }
@@ -11457,3 +11458,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+td {border-bottom:1px solid #054d21;}
+td {border:1px solid #85e4b6;}
